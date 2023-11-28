@@ -1,6 +1,6 @@
 import React from 'react'
 import style from './landing.module.css'
-import imageLanding from '../../../../countries.png'
+import imageLanding from '../../../image/countries.png'
 import { NavLink } from 'react-router-dom'
 
 const Landing = () => {
